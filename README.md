@@ -2,6 +2,8 @@
 
 # Hello World example
 
+https://www.npmjs.com/package/react-multi-carousel
+
 ## How to use
 
 ### Using `create-next-app`
